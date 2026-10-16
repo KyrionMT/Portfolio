@@ -15,6 +15,8 @@ npm ci
 npm run dev -- --port 5173 --strictPort
 ```
 
+No Windows, depois de instalar Node.js LTS, você também pode dar duplo clique em `INICIAR-SITE-WINDOWS.bat`. Não abra `index.html` diretamente: o navegador exibirá uma página em branco porque o projeto precisa do servidor Vite.
+
 ## Produção
 
 ```sh
